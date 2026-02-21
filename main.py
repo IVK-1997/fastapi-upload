@@ -1,3 +1,4 @@
+print("Version 2 Deploy")
 from fastapi import FastAPI, UploadFile, File, Header, HTTPException
 from fastapi.responses import JSONResponse
 import csv
